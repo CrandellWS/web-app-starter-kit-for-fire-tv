@@ -9,7 +9,7 @@
         skipLength: 30,
         controlsHideTime: 3000,
         user: "amazonwebservices",
-        devKey: "AIzaSyDK6c2yXyxpiKjoYWIlo5vYFOMYIK9CA50",
+        devKey: "AIzaSyDDGWWelwvZP05bidvXR5NR1TU6pUG-dZw",
         showLatestChannel: true,
         channels: [
             {

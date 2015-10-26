@@ -5,7 +5,7 @@
         Model: YouTubeAPIModel,
         PlayerView: YouTubePlayerView,
         PlaylistView: PlaylistPlayerView,
-        showSearch: true,
+        showSearch: false,
         skipLength: 30,
         controlsHideTime: 3000,
         user: "amazonwebservices",

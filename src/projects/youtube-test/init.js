@@ -8,7 +8,7 @@
         showSearch: true,
         skipLength: 30,
         controlsHideTime: 3000,
-        user: "amazonwebservices",
+        user: "Udacity",
         devKey: "AIzaSyDDGWWelwvZP05bidvXR5NR1TU6pUG-dZw",
         showLatestChannel: true,
         channels: [

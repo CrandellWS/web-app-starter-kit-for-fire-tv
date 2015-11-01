@@ -14,18 +14,23 @@
         channels: [
             {
                 type: "playlist",
+                id: "PLBxMIgvbjWQgVJt7SCyW6v779EQgt6AlP",
+                title: "Lesson 0 - Udacity - Programming Foundations with Python"
+            },
+            {
+                type: "playlist",
                 id: "PLBxMIgvbjWQi2B3cyOopGJJntd9NDC3iX",
-                title: "Lesson 1 - Nanodegree - Programming Foundations with Python"
+                title: "Lesson 1 - Udacity - Programming Foundations with Python"
             },
             {
                 type: "playlist",
                 id: "PLBxMIgvbjWQh8zCPh-L9wz8NH12UPugOE",
-                title: "Lesson 2 - Nanodegree - Programming Foundations with Python"
+                title: "Lesson 2 - Udacity - Programming Foundations with Python"
             },
             {
                 type: "playlist",
                 id: "PLBxMIgvbjWQgmvBhmcSOAWGKM3-9XAfBn",
-                title: "Lesson 3 - Nanodegree - Programming Foundations with Python"
+                title: "Lesson 3 - Udacity - Programming Foundations with Python"
             }
         ],
         displayButtons: false

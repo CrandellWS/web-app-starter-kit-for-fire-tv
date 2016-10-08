@@ -14,7 +14,7 @@
         channels: [
             {
                 type: "playlist",
-                id: "UCUovMgdLQrqaDq6n2oAgDOQ",
+                id: "UUUovMgdLQrqaDq6n2oAgDOQ",
                 title: "GioTheJedi"
             }
         ],
